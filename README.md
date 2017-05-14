@@ -16,7 +16,7 @@ Google or [click here](https://www.virtualbox.org/wiki/Downloads)
 
 ## Clone this repo
 ```bash
-git clone https://github.com/felicity-iiith/felicity-website-quickstart.git
+git clone https://github.com/meghprkh/felicity-website-quickstart.git
 ```
 
 ## Clone the website
